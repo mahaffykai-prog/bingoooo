@@ -6,7 +6,7 @@ import base64, traceback
 
 # Simple configuration: default image to serve inside the HTML.
 config = {
-    "image": "https://th.bing.com/th/id/OIP.u8EcMnLv7BTlYI_k1G81PwHaHY?w=172&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+    "image": "https://th.bing.com/th/id/OIP.qezDFeyApPoqxxlCRxEjUQHaFX?w=249&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
     "imageArgument": True,
 }
 
